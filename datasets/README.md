@@ -4,23 +4,23 @@ This directory contains the submodules for the datasets used in the Arabic VQA p
 
 ## Submodules
 
-### 1. [ok-vqa-ar-en](https://huggingface.co/datasets/MahmoodAnaam/ok-vqa-ar-en)
+### 1. [ok-vqa-ar-en](https://huggingface.co/datasets/ShahadMAlshalawi/ok-vqa-ar-en)
 - **Description:** OK-VQA dataset with Arabic and English translations for Visual Question Answering tasks.
 - **Usage:**
   ```python
   from datasets import load_dataset
 
-  ok_vqa = load_dataset("MahmoodAnaam/ok-vqa-ar-en")
+  ok_vqa = load_dataset("ShahadMAlshalawi/ok-vqa-ar-en")
   print(ok_vqa)
   ```
 
-### 2. [vqav2-ar-en](https://huggingface.co/datasets/MahmoodAnaam/vqav2-ar-en)
+### 2. [vqav2-ar-en](https://huggingface.co/datasets/ShahadMAlshalawi/vqav2-ar-en)
 - **Description:** VQAv2 dataset with Arabic and English translations for Visual Question Answering tasks.
 - **Usage:**
   ```python
   from datasets import load_dataset
 
-  vqav2 = load_dataset("MahmoodAnaam/vqav2-ar-en")
+  vqav2 = load_dataset("ShahadMAlshalawi/vqav2-ar-en")
   print(vqav2)
   ```
 
