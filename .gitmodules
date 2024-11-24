@@ -1,0 +1,6 @@
+[submodule "datasets/ok-vqa-ar-en"]
+	path = datasets/ok-vqa-ar-en
+	url = https://huggingface.co/datasets/ShahadMAlshalawi/ok-vqa-ar-en
+[submodule "datasets/vqav2-ar-en"]
+	path = datasets/vqav2-ar-en
+	url = https://huggingface.co/datasets/MahmoodAnaam/vqav2-ar-en
