@@ -1,1 +1,1 @@
-# Arabic-VQA
+# Modular ArabicVQA
